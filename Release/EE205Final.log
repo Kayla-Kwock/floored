@@ -1,0 +1,149 @@
+﻿  stdafx.cpp
+  Clickable.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\clickable.cpp(5): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\clickable.cpp(6): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\clickable.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\clickable.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\clickable.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\clickable.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\clickable.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\clickable.cpp(76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\clickable.cpp(80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\clickable.cpp(101): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Collision.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\collision.cpp(12): warning C4018: '>=': signed/unsigned mismatch
+  Consumable.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\consumable.cpp(32): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\consumable.cpp(33): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\consumable.cpp(41): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\consumable.cpp(42): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\consumable.cpp(69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\consumable.cpp(70): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\consumable.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Draw.cpp
+  Dynamic.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\dynamic.cpp(14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\dynamic.cpp(28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\dynamic.cpp(29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\dynamic.cpp(33): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\dynamic.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\dynamic.cpp(38): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\dynamic.cpp(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\dynamic.cpp(43): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\dynamic.cpp(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\dynamic.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\dynamic.cpp(61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EE205Final.cpp
+  Enemy.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(12): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(19): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(20): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(25): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(26): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(31): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(32): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\enemy.cpp(62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EnemySpawn.cpp
+  Firearm.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\firearm.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\dylan\source\repos\ee205final\ee205final\firearm.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\dylan\source\repos\ee205final\ee205final\firearm.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  Floor.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\floor.cpp(26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameManager.cpp
+  Global.cpp
+  Info.cpp
+  Menu.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\menu.cpp(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\dylan\source\repos\ee205final\ee205final\menu.cpp(443): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\menu.cpp(444): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\menu.cpp(445): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\menu.cpp(447): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\menu.cpp(456): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\menu.cpp(457): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\menu.cpp(458): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\menu.cpp(460): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\menu.cpp(787): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\menu.cpp(841): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Object.cpp
+  Placeable.cpp
+  Player.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\player.cpp(11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Projectile.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\projectile.cpp(79): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\projectile.cpp(80): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\projectile.cpp(110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\projectile.cpp(115): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\projectile.cpp(116): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\projectile.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Shaft.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\shaft.cpp(11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\shaft.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Sounds.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\sounds.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\sounds.cpp(33): warning C4018: '<=': signed/unsigned mismatch
+  Compiling...
+  Turret.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(12): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(17): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(18): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(23): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(29): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(30): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(35): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(36): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\turret.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Upgrade.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(72): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(83): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(87): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(90): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(91): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dylan\source\repos\ee205final\ee205final\upgrade.cpp(92): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+c:\users\dylan\source\repos\ee205final\ee205final\main.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  3 of 1473 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    13 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  EE205Final.vcxproj -> C:\Users\Dylan\source\repos\EE205Final\Release\EE205Final.exe

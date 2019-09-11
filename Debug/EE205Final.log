@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\users\daods\source\repos\ee205final\ee205final\stdafx.h(27): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
